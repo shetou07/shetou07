@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Shetou
+# 👋 Hey there! I'm Shema
 
 <div align="center">
   <img src="### 🔧 Tools & Technologies
