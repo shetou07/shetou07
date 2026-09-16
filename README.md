@@ -1,103 +1,544 @@
+<!-- =========================================================
+ ███████╗██╗  ██╗███████╗███╗   ███╗ █████╗
+ ██╔════╝██║  ██║██╔════╝████╗ ████║██╔══██╗
+ ███████╗███████║█████╗  ██╔████╔██║███████║
+ ╚════██║██╔══██║██╔══╝  ██║╚██╔╝██║██╔══██║
+ ███████║██║  ██║███████╗██║ ╚═╝ ██║██║  ██║
+ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝
+========================================================= -->
+
 <div align="center">
 
-# Shema — Full-Stack & Blockchain Developer
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,25:0F172A,55:1D4ED8,80:7C3AED,100:020617&text=SHEMA&fontColor=F8FAFC&fontSize=90&animation=fadeIn&fontAlignY=43&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20SYSTEM%20BUILDER%20%E2%80%A2%20WEB3%20%E2%80%A2%20AI&descSize=18&descAlignY=63"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%2B+Next.js;Rust+%2B+Motoko+on+the+Internet+Computer;Co-Founder+%40+NileBit+Labs" alt="Typing SVG" />
+<img
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=900&height=70&lines=%3E+I+don't+just+write+code.+I+build+systems.;%3E+Frontend.+Backend.+Infrastructure.+Protocols.;%3E+From+an+idea+to+a+system+people+can+actually+use.;%3E+Currently+exploring+the+future+of+developer+intelligence."
+/>
 
-[![Email](https://img.shields.io/badge/Email-shemashetou7%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:shemashetou7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-shetou07-333?style=flat-square&logo=github&logoColor=white)](https://github.com/shetou07)
+<br/>
+
+<a href="mailto:shemashetou7@gmail.com">
+<img src="https://img.shields.io/badge/LET'S_TALK-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+</a>
+
+<a href="https://github.com/shetou07">
+<img src="https://img.shields.io/badge/FOLLOW_MY_WORK-0F172A?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=shetou07&label=VISITORS&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
----
-
-## About
-
-I'm a full-stack and blockchain developer based in Kigali, Rwanda, and co-founder of **NileBit Labs**, a health-tech startup. I build production web applications and decentralized applications, with a particular focus on the Internet Computer ecosystem using Rust and Motoko.
-
-Day to day, I split my time between shipping product for NileBit Labs and building full-stack platforms in React, Next.js, and Node.js — with a growing interest in agentic AI systems.
-
-- Co-founder, NileBit Labs — building a maternal health wearable product
-- Studying Information Technology at Victoria University
-- Currently exploring agentic AI architecture on the Anthropic SDK
-- Open to collaborating on frontend, backend, and blockchain projects
-
----
-
-## Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Motoko](https://img.shields.io/badge/Motoko-29ABE2?style=flat-square&logo=internetcomputer&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Blockchain & Web3**
-
-![Internet Computer](https://img.shields.io/badge/Internet_Computer-29ABE2?style=flat-square&logo=internetcomputer&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=black)
-
-**Tooling**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-
----
-
-## Selected Projects
-
-**SevenX** — Full-stack recruitment platform (capstone project)
-Built with Node.js, Express, MongoDB, Next.js 14, and TypeScript, featuring JWT authentication and a hybrid job-recommendation algorithm.
-
-**Indatwa Platform** — Product design and PRD work
-Defined a conflict-detection engine, role and permissions structure, and a mobile-money-first payment architecture.
-
-**RegRadar** — Agentic AI reference project
-A single-agent ReAct loop built on the Anthropic SDK, used to deepen understanding of agentic AI system design.
-
----
-
-## GitHub Analytics
+<br/>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shetou07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shetou07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+// ENGINEER. BUILDER. EXPLORER.
+
+I turn complex ideas into software systems that make sense.
+
+</div>
+
+<br/>
+
+I work across the stack, from the interface someone touches to the services,
+databases, infrastructure and protocols running underneath it.
+
+My work sits at the intersection of:
+
+                         ┌─────────────────┐
+                         │   SOFTWARE      │
+                         │  ENGINEERING    │
+                         └────────┬────────┘
+                                  │
+                 ┌────────────────┼────────────────┐
+                 │                │                │
+                 ▼                ▼                ▼
+          ┌────────────┐   ┌────────────┐   ┌────────────┐
+          │ FULL STACK │   │    WEB3    │   │     AI     │
+          │  SYSTEMS   │   │ PROTOCOLS  │   │   AGENTS   │
+          └──────┬─────┘   └──────┬─────┘   └──────┬─────┘
+                 │                │                │
+                 └────────────────┼────────────────┘
+                                  ▼
+                         ┌─────────────────┐
+                         │   PRODUCTS      │
+                         │ THAT ACTUALLY   │
+                         │     SHIP        │
+                         └─────────────────┘
+
+<br/>
+
+01 / IDENTITY
+
+type Engineer = {
+  name: string;
+  location: string;
+  obsession: string[];
+  philosophy: string;
+};
+
+const shema: Engineer = {
+  name: "Shema",
+
+  location: "Kigali, Rwanda 🇷🇼",
+
+  obsession: [
+    "software architecture",
+    "developer intelligence",
+    "AI agent systems",
+    "distributed applications",
+    "Web3 infrastructure",
+    "products that solve real problems"
+  ],
+
+  philosophy:
+    "Understand deeply. Design deliberately. Build simply. Ship reliably."
+};
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+⚡ What I build
+
+Systems that move beyond demos.
+
+Applications with:
+
+real users
+
+authentication
+
+business logic
+
+databases
+
+APIs
+
+infrastructure
+
+integrations
+
+deployment
+
+monitoring
+
+room to evolve
+
+</td>
+
+<td width="50%" valign="top">
+
+🧠 What I'm chasing
+
+I'm increasingly interested in systems capable of understanding other systems.
+
+That means exploring:
+
+repository intelligence
+
+code graphs
+
+autonomous agents
+
+MCP
+
+tool-using LLMs
+
+local inference
+
+RAG
+
+software reasoning
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+02 / THE STACK
+
+<div align="center">
+
+LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust,php&theme=dark"/>
+
+<br/><br/>
+
+APPLICATION LAYER
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,laravel,tailwind&theme=dark"/>
+
+<br/><br/>
+
+DATA + INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,github,gitlab,linux&theme=dark"/>
+
+<br/><br/>
+
+PROTOCOLS + WEB3
+
+<img src="https://skillicons.dev/icons?i=rust,solidity,ethereum,solana&theme=dark"/>
+
+<br/>
+
+<img height="45"
+src="https://internetcomputer.org/img/IC_logo_horizontal.svg"/>
+
+</div>
+
+<br/>
+
+React / Next.js        █████████████████████░░░
+Node / APIs            ██████████████████████░░
+PostgreSQL             ████████████████████░░░░
+Python                 ███████████████████░░░░░
+Docker / DevOps        █████████████████░░░░░░░
+Rust / Web3            ████████████████░░░░░░░░
+AI Systems             ██████████████████░░░░░░
+
+The bars aren't certifications. They're simply where most of my engineering time goes.
+
+<br/>
+
+03 / FEATURED SYSTEMS
+
+<div align="center">
+
+Selected work, not a repository dump.
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h2 align="center">
+📅 Service Scheduler
+</h2>
+
+<p align="center">
+<b>Booking infrastructure built around availability.</b>
+</p>
+
+<br/>
+
+A production-oriented platform where clients can discover services, select
+available dates and time periods, submit bookings and receive confirmations.
+
+Administrators control availability from the other side of the system.
+
+<br/>
+
+Architecture
+
+Client
+  │
+  ▼
+Next.js
+  │
+  ▼
+NestJS API
+  │
+  ├── Scheduling Engine
+  ├── Notifications
+  ├── Validation
+  │
+  ▼
+Prisma
+  │
+  ▼
+PostgreSQL
+
+Stack
+
+Next.js NestJS Prisma PostgreSQL
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/shetou07/Service-scheduler">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2 align="center">
+🏨 Muv_in
+</h2>
+
+<p align="center">
+<b>Hotel booking meets decentralized infrastructure.</b>
+</p>
+
+<br/>
+
+A Web3 hotel-booking experiment designed around Internet Computer canisters.
+
+Rather than treating blockchain as a decorative payment layer, booking logic
+and transaction behavior become part of the decentralized architecture.
+
+<br/>
+
+Architecture
+
+React Client
+     │
+     ▼
+ICP Agent
+     │
+     ▼
+Canisters
+     │
+ ┌───┴──────────┐
+ │              │
+Hotels       Bookings
+ │              │
+ └──── On-chain ┘
+
+Stack
+
+TypeScript Motoko Internet Computer
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/shetou07/Muv_in">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h2 align="center">
+🤖 RegRadar
+</h2>
+
+<p align="center">
+<b>Learning agents by building agents.</b>
+</p>
+
+<br/>
+
+A reference implementation exploring how an autonomous software agent can
+reason through a problem, invoke tools, inspect results and decide what to do
+next.
+
+<br/>
+
+        ┌─────────────┐
+        │    INPUT    │
+        └──────┬──────┘
+               ▼
+        ┌─────────────┐
+        │   REASON    │◄──────────┐
+        └──────┬──────┘           │
+               ▼                  │
+        ┌─────────────┐           │
+        │ USE A TOOL  │           │
+        └──────┬──────┘           │
+               ▼                  │
+        ┌─────────────┐           │
+        │   OBSERVE   │───────────┘
+        └──────┬──────┘
+               ▼
+             ANSWER
+
+Stack
+
+TypeScript Anthropic SDK ReAct
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/shetou07/RegRadar">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2 align="center">
+🛰️ Developer Intelligence
+</h2>
+
+<p align="center">
+<b>The problem I'm increasingly obsessed with.</b>
+</p>
+
+<br/>
+
+What happens when a development tool stops looking at source files
+individually and starts understanding the entire software system?
+
+I'm exploring architectures combining:
+
+Repository
+    │
+    ├── AST
+    ├── Dependencies
+    ├── Commits
+    ├── Architecture
+    └── Documentation
+            │
+            ▼
+      Knowledge Layer
+            │
+   ┌────────┼────────┐
+   ▼        ▼        ▼
+ Graph     RAG     Agents
+   └────────┼────────┘
+            ▼
+   Developer Intelligence
+
+Code Graphs RAG Agents MCP LLMs
+
+<br/>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/STATUS-EXPLORING-0F172A?style=for-the-badge"/>
+
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+04 / HOW I THINK
+
+<div align="center">
+
+flowchart LR
+    P((Problem))
+    U[Understand]
+    A[Architecture]
+    B[Build]
+    T[Test]
+    S[Ship]
+    O[Observe]
+
+    P --> U
+    U --> A
+    A --> B
+    B --> T
+    T --> S
+    S --> O
+    O --> U
+
+</div>
+
+A surprising amount of bad software starts with code being written too early.
+
+My preferred process is:
+
+Understand the problem → model the system → identify failure points → build
+the smallest credible version → test reality → iterate.
+
+<br/>
+
+05 / CURRENT SIGNAL
+
+shema@kigali:~$ ./current-focus
+
+[██████████████████████████] developer-intelligence
+[██████████████████████░░░░] agentic-ai
+[████████████████████░░░░░░] distributed-systems
+[██████████████████░░░░░░░░] rust
+[████████████████░░░░░░░░░░] blockchain-infrastructure
+
+STATUS: building
+MODE:   curious
+UPTIME: questionable
+
+<br/>
+
+06 / GITHUB TELEMETRY
+
+<div align="center">
+
+<img width="94%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shetou07&theme=github_dark"/>
+
+<br/><br/>
+
+<img width="46%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shetou07&theme=github_dark"/>
+
+<img width="46%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shetou07&theme=github_dark"/>
+
+<br/><br/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=shetou07&theme=transparent&hide_border=true&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B"
+/>
+
+</div>
+
+<br/>
+
+07 / THE PRINCIPLE
+
+<div align="center">
+
+<br/>
+
+Software should not just work.
+
+It should make sense.
+
+<br/>
+
+Readable enough to inherit.
+Simple enough to reason about.
+Secure enough to trust.
+Flexible enough to evolve.
+Useful enough to matter.
+
+<br/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shetou07&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shetou07&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Still+building.;Still+breaking+things.;Still+learning+why+they+broke."
+/>
 
----
+<br/><br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shetou07&label=Profile+Views&color=36BCF7&style=flat-square" alt="Profile Views" />
+Kigali, Rwanda 🇷🇼
+
+<br/>
+
+<a href="mailto:shemashetou7@gmail.com">
+<img src="https://img.shields.io/badge/BUILD_SOMETHING_TOGETHER-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:020617,45:2563EB,75:7C3AED,100:020617&section=footer"/>
+
 </div>
